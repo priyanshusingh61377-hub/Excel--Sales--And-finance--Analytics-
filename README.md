@@ -47,7 +47,7 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 4. **Quarterly Profit and Loss (P&L) Comparison:** Financial performance trends throughout the year.
 5. **Market-Specific Profit and Loss (P&L) Report:** Performance breakdown for each market.
 6. **Quarterly Gross Margin Percentage (GM%) by Location:** Profitability view by geographic area.
-## Financial Analysis Reports
+### Financial Analysis Reports
 ### 1. Customer Net Sales Performance Report
 
 &#9702; Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
@@ -66,7 +66,7 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 6. Quarterly Gross Margin Percentage (GM%) by Location
 
 &#9702; Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
-## Overall Insights
+### Overall Insights
 - Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
 - Top 10 Products: Continued strong performance of key products from 2020 to 2021.
 - Market Performance vs. Target: Insights into market performance relative to sales goals.
