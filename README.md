@@ -23,8 +23,8 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 &#9675; Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 #### 2.Division Sales Report
 
-&#9675; Insights:
-    &#9724; PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
+&#9675; Insights:<br>
+    &#9724; PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
     &#9724; Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
     &#9724; Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 #### 3.Top and Bottom 5 Sold Products
