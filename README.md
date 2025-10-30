@@ -29,7 +29,7 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
     &#9702; Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 #### 3.Top and Bottom 5 Sold Products
 
-&#9702; **Top 5 Products by Quantity:** Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
+&#9702; **Top 5 Products by Quantity:** Insights on best-performing products, with "AQ Master wired x1 Ms" leading.<br>
 &#9702; **Bottom 5 Products by Quantity:** Insights into underperforming products and considerations for adjustments.
 #### 4.New Products in 2021
 
