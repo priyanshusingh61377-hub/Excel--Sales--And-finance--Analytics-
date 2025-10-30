@@ -66,7 +66,7 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 6. Quarterly Gross Margin Percentage (GM%) by Location
 
 &#9702; Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
-### Overall Insights
+## Overall Insights
 - Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
 - Top 10 Products: Continued strong performance of key products from 2020 to 2021.
 - Market Performance vs. Target: Insights into market performance relative to sales goals.
