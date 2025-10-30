@@ -24,23 +24,23 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 #### 2.Division Sales Report
 
 &#9675; Insights:<br>
-    &#9724; PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
-    &#9724; Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
-    &#9724; Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
+    &#9702; PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
+    &#9702; Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).<br>
+    &#9702; Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 #### 3.Top and Bottom 5 Sold Products
 
-Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
-Bottom 5 Products by Quantity: Insights into underperforming products and considerations for adjustments.
-New Products in 2021
+&#9702;**Top 5 Products by Quantity:** Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
+&#9702;**Bottom 5 Products by Quantity:** Insights into underperforming products and considerations for adjustments.
+#### 4.New Products in 2021
 
-Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
-Top 5 Sales Countries in 2021
+&#9702;Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+#### 5.Top 5 Sales Countries in 2021
 
-Insights:
-India led with $161.3 million in sales.
-Strong sales also noted in the USA, South Korea, the UK, and Canada.
-Financial Analysis
-Objectives
+&#9702;Insights:<br>
+&#9724;India led with $161.3 million in sales.<br>
+&#9724;Strong sales also noted in the USA, South Korea, the UK, and Canada.
+## Financial Analysis
+### Objectives
 Customer Net Sales Performance Report: Overview of revenue generated from customers.
 Market Performance vs. Sales Targets Comparison: Analysis of sales efforts against goals and market conditions.
 Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
