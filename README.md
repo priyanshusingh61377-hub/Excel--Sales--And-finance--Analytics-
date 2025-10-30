@@ -33,12 +33,12 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 &#9702;**Bottom 5 Products by Quantity:** Insights into underperforming products and considerations for adjustments.
 #### 4.New Products in 2021
 
-&#9702;Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+&#9675; Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 #### 5.Top 5 Sales Countries in 2021
-
-&#9702;Insights:<br>
-&#9724;India led with $161.3 million in sales.<br>
-&#9724;Strong sales also noted in the USA, South Korea, the UK, and Canada.
+ 
+&#9675; Insights:<br>
+&#9724; India led with $161.3 million in sales.<br>
+&#9724; Strong sales also noted in the USA, South Korea, the UK, and Canada.
 ## Financial Analysis
 ### Objectives
 Customer Net Sales Performance Report: Overview of revenue generated from customers.
