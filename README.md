@@ -12,11 +12,11 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 
 ## Sales Analysis
 ### Objectives
-1.Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
-2.Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
-3.Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.
-4.New Products in 2021: List new products Atliq started selling in 2021.
-5.Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.
+1.Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.<br>
+2.Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.<br>
+3.Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.<br>
+4.New Products in 2021: List new products Atliq started selling in 2021.<br>
+5.Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.<br>
 ### Sales Analysis Reports
 #### 1.Top 10 Products with Sales Increase
 
