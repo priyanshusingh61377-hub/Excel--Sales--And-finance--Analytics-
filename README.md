@@ -20,10 +20,10 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 ### Sales Analysis Reports
 #### 1.Top 10 Products with Sales Increase
 
-&#9675; Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+- Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 #### 2.Division Sales Report
 
-&#9675; Insights:<br>
+- Insights:<br>
     &#9702; PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.<br>
     &#9702; Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).<br>
     &#9702; Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
@@ -33,10 +33,10 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 &#9702; **Bottom 5 Products by Quantity:** Insights into underperforming products and considerations for adjustments.
 #### 4.New Products in 2021
 
-&#9675; Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+- Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 #### 5.Top 5 Sales Countries in 2021
  
-&#9675; Insights:<br>
+- Insights:<br>
 &#9724; India led with $161.3 million in sales.<br>
 &#9724; Strong sales also noted in the USA, South Korea, the UK, and Canada.
 ## Financial Analysis
