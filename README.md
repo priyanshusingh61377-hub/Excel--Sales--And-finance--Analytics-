@@ -7,26 +7,26 @@ Atliq Hardware specializes in selling a wide range of hardware products, includi
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
-Problem Statement
+## Problem Statement
 To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
-Sales Analysis
-Objectives
-Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
-Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
-Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.
-New Products in 2021: List new products Atliq started selling in 2021.
-Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.
-Sales Analysis Reports
-Top 10 Products with Sales Increase
+## Sales Analysis
+### Objectives
+1.Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
+2.Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
+3.Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.
+4.New Products in 2021: List new products Atliq started selling in 2021.
+5.Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.
+### Sales Analysis Reports
+#### 1.Top 10 Products with Sales Increase
 
-Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
-Division Sales Report
+&#9675; Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
+#### Division Sales Report
 
-Insights:
-PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
-Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
-Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
+&#9675; Insights:
+&#9724; PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
+&#9724; Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
+&#9724; Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 Top and Bottom 5 Sold Products
 
 Top 5 Products by Quantity: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
