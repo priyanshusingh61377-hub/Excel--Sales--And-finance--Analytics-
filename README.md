@@ -51,19 +51,24 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 ### 1. Customer Net Sales Performance Report
 
 &#9702; Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).<br>
-2. Market Performance vs. Sales Targets Comparison
+
+2.** Market Performance vs. Sales Targets Comparison**
 
 &#9702; Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.<br>
-3. Yearly Profit and Loss (P&L) Report
+
+3.** Yearly Profit and Loss (P&L) Report**
 
 &#9702; Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.<br>
-4. Quarterly Profit and Loss (P&L) Comparison
+
+4.** Quarterly Profit and Loss (P&L) Comparison**
 
 &#9702; Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.<br>
-5. Market-Specific Profit and Loss (P&L) Report
+
+5. **Market-Specific Profit and Loss (P&L) Report**
 
 &#9702; Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.<br>
-6. Quarterly Gross Margin Percentage (GM%) by Location
+
+6. **Quarterly Gross Margin Percentage (GM%) by Location**
 
 &#9702; Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.<br>
 ## Overall Insights
